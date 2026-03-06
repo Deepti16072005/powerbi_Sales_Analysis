@@ -1,10 +1,11 @@
-# 📊 Sales Analytics Dashboard – Power BI Project
+# 📊 Sales Analytics Dashboard 
 
 ## 📌 Project Overview
 
-This project presents a comprehensive **Sales Analytics Dashboard** developed using **Power BI**. The dashboard analyzes sales performance, revenue trends, regional sales distribution, product performance, and salesperson efficiency.
+This project presents a comprehensive **Sales Analytics Dashboard built using Power BI**.
+The dashboard analyzes business data across multiple perspectives including **revenue insights, regional performance, product analysis, profit margins, salesperson performance, and sales forecasting**.
 
-The objective of this project is to transform raw sales data into **interactive visual insights that support business decision-making**.
+The goal of this project is to convert raw sales data into **interactive visual insights that help support business decision-making**.
 
 ---
 
@@ -18,152 +19,155 @@ The objective of this project is to transform raw sales data into **interactive 
 
 ---
 
-# 📈 Dashboard Sections
+# 📈 Dashboard Pages
 
 ---
 
-# 1️⃣ Sales Overview
+# 1️⃣ Scatter Plot
 
-This page provides a **high-level overview of business performance** including sales trends, regional distribution, and product category insights.
+This page visualizes the relationship between **sales amount and profit margin across different business types and quarters**.
 
-![Sales Overview](4.overview.png)
+![Scatter Plot](1.Scatterplot.png)
 
 Key Insights:
 
-* Monthly sales trend analysis
-* Regional sales distribution
-* Product category performance
-* Sales quantity comparison
+* Sales vs Profit Margin comparison
+* Business type performance analysis
+* Quarterly trend visualization
 
 ---
 
 # 2️⃣ Revenue & Sales Insights
 
-This section analyzes sales data across fiscal years with important pricing and revenue metrics.
+This section analyzes sales performance across fiscal years using detailed sales metrics.
 
-![Revenue and Sales Insights](2.revenue&sales insight.png)
+![Revenue & Sales Insights](2.revenue&sales insight.png)
 
 Key Metrics:
 
 * Average Price
 * Median Price
-* Minimum and Maximum Price
-* Sales Year-to-Date
-* Year-over-Year Sales Growth
+* Minimum & Maximum Price
+* Total Orders and Order Lines
+* Sales Year-to-Date (YTD)
+* Sales Year-over-Year Growth
 
 ---
 
-# 3️⃣ Regional Sales Analysis
+# 3️⃣ Sales Analysis by Region
 
-This dashboard analyzes **sales performance across different regions and countries**.
+This page explores **sales distribution across regions and countries**.
 
-![Regional Sales Analysis](3.Sales Growth by Region.png)
+![Sales Analysis by Region](3.Sales Growth by Region.png)
 
 Key Insights:
 
-* Sales distribution by region
-* Country-level revenue contribution
-* Running total of sales over time
+* Regional contribution to total revenue
+* Country-level sales analysis
+* Sales percentage comparison by region
+* Running total sales trend
 
 ---
 
-# 4️⃣ Sales Trend Analysis
+# 4️⃣ Overview
 
-This visualization shows the **quarterly sales trend and cumulative sales growth**.
+This page provides a **high-level business overview dashboard**.
 
-![Sales Trend](1.Scatterplot.png)
+![Overview](4.overview.png)
 
 Key Insights:
 
-* Sales performance by quarter
-* Running sales total
-* Trend patterns across fiscal years
+* Monthly sales trends
+* Profit margin analysis
+* Regional sales distribution
+* Order quantity by product category
 
 ---
 
-# 5️⃣ Profit Performance
+# 5️⃣ Profit
 
-This section analyzes **profit margins across years and quarters**.
+This page analyzes **profit performance across fiscal years and quarters**.
 
 ![Profit Analysis](5.profit.png)
 
 Key Insights:
 
-* Profit margins by fiscal year
-* Quarterly profitability trends
+* Profit margin trends
+* Quarterly profitability
 * Revenue vs profit analysis
 
 ---
 
-# 6️⃣ Salesperson Performance
+# 6️⃣ Sales Person Performance
 
-This page evaluates the performance of **individual sales representatives**.
+This page evaluates **individual salesperson performance compared with targets**.
 
-![Salesperson Performance](6.sales person performance.png)
+![Sales Person Performance](6.sales person performance.png)
 
 Key Metrics:
 
-* Sales achieved vs targets
-* Variance from targets
-* Sales performance margin
+* Sales achieved vs target
+* Variance analysis
+* Individual contribution to total sales
 
 ---
 
-# 7️⃣ Product Performance
+# 7️⃣ Product Details
 
-This dashboard analyzes product-level sales performance.
+This page analyzes **product-level sales performance**.
 
-![Product Details](7.product details.png)
+![Product Details](7.product.png)
 
 Key Insights:
 
 * Sales by product category
-* Product order quantities
-* Profit margins by product
+* Order quantity analysis
+* Profit margin by product
 * Product variation analysis
 
 ---
 
-# 8️⃣ Sales Forecasting
+# 8️⃣ Forecast
 
-This visualization predicts **future sales trends based on historical data**.
+This section performs **sales forecasting based on historical data trends**.
 
 ![Sales Forecast](8.forecast.png)
 
 Key Insights:
 
 * Historical sales patterns
-* Future demand forecast
-* Time-series trend analysis
+* Predicted future sales
+* Seasonal sales fluctuations
 
 ---
 
 # 9️⃣ Annual Revenue Comparison
 
-This section compares **yearly revenue performance**.
+This page compares **year-over-year revenue performance**.
 
 ![Annual Revenue Comparison](9.Annual Revenue Comparison.png)
 
 Key Insights:
 
-* Year-over-year revenue comparison
-* Moving average trend
-* Running sales totals
+* Year-over-year revenue growth
+* Moving average trend analysis
+* Running total sales performance
 
 ---
 
 # 📊 Key Business Insights
 
-* North America contributes a significant portion of overall revenue.
-* Product categories such as **bikes and components** drive higher sales.
-* Sales growth fluctuates across fiscal years indicating seasonal demand.
-* Forecast analysis helps anticipate future revenue trends.
+* North America contributes a significant portion of total revenue.
+* Certain product categories generate higher sales and profitability.
+* Sales trends indicate seasonal fluctuations across fiscal quarters.
+* Forecast analysis helps anticipate future sales demand.
 
 ---
 
 # 🎯 Conclusion
 
-This project demonstrates the power of **Power BI and Business Intelligence** in transforming raw sales data into **actionable insights**. The dashboard helps organizations monitor performance, identify trends, and support strategic decision-making.
+This Power BI dashboard demonstrates how **data visualization and business intelligence tools can transform raw datasets into actionable insights**.
+The dashboard supports organizations in **monitoring performance, identifying growth opportunities, and making strategic decisions**.
 
 ---
 
