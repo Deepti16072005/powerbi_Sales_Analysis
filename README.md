@@ -116,7 +116,7 @@ Key Metrics:
 
 This page analyzes **product-level sales performance**.
 
-![Product Details](images/7_product.png)
+![Product Details](images/7_product_details.png)
 
 Key Insights:
 
@@ -145,7 +145,7 @@ Key Insights:
 
 This page compares **year-over-year revenue performance**.
 
-![Annual Revenue Comparison](images/9.Annual_Revenue_Comparison.png)
+![Annual Revenue Comparison](images/9_Annual_Revenue_Comparison.png)
 
 Key Insights:
 
