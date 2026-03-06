@@ -58,7 +58,7 @@ Key Metrics:
 
 This page explores **sales distribution across regions and countries**.
 
-![Sales Analysis by Region](3_Sales_Growth_by_Region.png)
+![Sales Analysis by Region](images/3_Sales_Growth_by_Region.png)
 
 Key Insights:
 
@@ -73,7 +73,7 @@ Key Insights:
 
 This page provides a **high-level business overview dashboard**.
 
-![Overview](4_overview.png)
+![Overview](images/4_overview.png)
 
 Key Insights:
 
@@ -88,7 +88,7 @@ Key Insights:
 
 This page analyzes **profit performance across fiscal years and quarters**.
 
-![Profit Analysis](5_profit.png)
+![Profit Analysis](images/5_profit.png)
 
 Key Insights:
 
@@ -102,7 +102,7 @@ Key Insights:
 
 This page evaluates **individual salesperson performance compared with targets**.
 
-![Sales Person Performance](6_sales_person_performance.png)
+![Sales Person Performance](images/6_sales_person_performance.png)
 
 Key Metrics:
 
@@ -116,7 +116,7 @@ Key Metrics:
 
 This page analyzes **product-level sales performance**.
 
-![Product Details](7_product.png)
+![Product Details](images/7_product.png)
 
 Key Insights:
 
@@ -131,7 +131,7 @@ Key Insights:
 
 This section performs **sales forecasting based on historical data trends**.
 
-![Sales Forecast](8_forecast.png)
+![Sales Forecast](images/8_forecast.png)
 
 Key Insights:
 
@@ -145,7 +145,7 @@ Key Insights:
 
 This page compares **year-over-year revenue performance**.
 
-![Annual Revenue Comparison](9.Annual_Revenue_Comparison.png)
+![Annual Revenue Comparison](images/9.Annual_Revenue_Comparison.png)
 
 Key Insights:
 
