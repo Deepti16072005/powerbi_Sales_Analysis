@@ -27,7 +27,7 @@ The goal of this project is to convert raw sales data into **interactive visual 
 
 This page visualizes the relationship between **sales amount and profit margin across different business types and quarters**.
 
-![Scatter Plot](images/1.Scatterplot.png)
+![Scatter Plot](images/1_Scatterplot.png)
 
 Key Insights:
 
