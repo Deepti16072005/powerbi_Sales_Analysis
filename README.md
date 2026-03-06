@@ -41,7 +41,7 @@ Key Insights:
 
 This section analyzes sales performance across fiscal years using detailed sales metrics.
 
-![Revenue & Sales Insights](2.revenue&sales insight.png)
+![Revenue & Sales Insights](images/2.revenue&sales insight.png)
 
 Key Metrics:
 
